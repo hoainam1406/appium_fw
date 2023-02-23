@@ -1,0 +1,19 @@
+{
+  
+  "android": {
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "emulator-5554",
+    "platformVersion": "12",
+    "app": "",
+    "appWaitActivity": "*",
+    "appPackage": "com.lxqd.myhotpotstroy.abroad"
+  },
+  "iOS": {
+    "platformName": "iOS",
+    "automationName": "XCUITest",
+    "deviceName": "iPhone 11",
+    "platformVersion": "",
+    "app": ""
+  }
+}

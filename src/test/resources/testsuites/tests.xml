@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AppiumTest">
+    <test name="Testing">
+        <parameter name="platform" value = "android"/>
+        <classes>
+            <class name="tests.TestCaseDemo" />
+            <class name="tests.TestCaseDemo1" />
+        </classes>
+    </test>
+</suite>
